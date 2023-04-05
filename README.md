@@ -24,3 +24,9 @@ Week 02 assignment_Sketching, Wireframes, and Design specifications
 ## Design
 
 ![Poster_design](https://user-images.githubusercontent.com/112652093/229981592-a03b33c2-2fac-418b-9223-b6d92e08a939.jpg)
+
+
+## Web
+
+<img width="1511" alt="Screenshot 2023-04-05 at 12 14 31 PM" src="https://user-images.githubusercontent.com/112652093/230141482-5449457d-70aa-4a29-9a9a-854ce2157907.png">
+
