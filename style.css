@@ -1,0 +1,110 @@
+body {
+    background-color: black;
+}
+
+
+.year {
+    position: fixed;
+    font-size: 40px;
+    font-family: 'pp_fragmentserif_regular';
+    src: url('ppfragment-serifregular-webfont.woff2') format('woff2'),
+         url('ppfragment-serifregular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    top: 20px;
+    color:white;
+    width: 300px;
+    left: 100px;
+
+}
+
+.to {
+    position: fixed;
+    font-size: 40px;
+    top: 20px;
+    right: 100px;
+    color:white;
+
+}
+
+.CapA {
+    position: fixed;
+    font-size: 200px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style:bold;
+    top: 40px;
+    left:20px;
+    color:white;
+    width: 300px;
+    left: 100px;
+
+}
+
+.LowA {
+    position: fixed;
+    font-size: 200px;
+    font-family:Arial, Helvetica, sans-serif;
+    top: 55px;
+    color:white;
+    width: 300px;
+    left: 220px;
+
+}
+
+.hi {
+    position:fixed;
+    font-size: 100px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-seri;
+    top: 100px;
+    color:white;
+    right: 100px;
+}
+
+.type {
+    position: fixed;
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style:italic;
+    top: 285px;
+    left:520px;
+    color:white;
+    width: 300px;
+
+}
+
+
+.rectangle_yellow {
+    position: fixed;
+    top: 260px;
+    width: 400px;
+    height: 200px;
+    background: #fefe15;
+    left: 100px;
+  }
+
+  .rectangle_blue {
+    position:fixed;
+    top: 450px;
+    right: 100px;
+    width: 600px;
+    height: 300px;
+    background:#0240fb;
+  }
+
+
+  .horizontal-line {
+    border-top: 4px solid #fefe15;
+    display: block;
+    height: 100px;
+
+
+    #star {
+        position:fixed;
+        top: 450px;
+    }
+
+    #star_line {
+        position: fixed;
+        
+    }
+  }
